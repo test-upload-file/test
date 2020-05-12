@@ -1,0 +1,10 @@
+/darknet/kaset/1.jpg
+/darknet/kaset/2.jpg
+/darknet/kaset/3.jpg
+/darknet/kaset/4.jpg
+/darknet/kaset/5.jpg
+/darknet/kaset/6.jpg
+/darknet/kaset/7.jpg
+/darknet/kaset/8.jpg
+/darknet/kaset/9.jpg
+/darknet/kaset/10.jpg
